@@ -93,8 +93,8 @@ I also have basic knowledge of deployment and cloud, but my primary focus is bui
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhalilAhmadPK&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilAhmadPK&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khalil789k&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil789k&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </div>
 
 ---
@@ -111,9 +111,7 @@ I also have basic knowledge of deployment and cloud, but my primary focus is bui
 ## 🌐 Connect
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO)
+  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Khalil_Ahmad001@hotmail.com)
 
 </div>
