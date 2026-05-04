@@ -2,7 +2,7 @@
 
 # Hi, I'm Khalil Ahmad 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;DevOps+%26+Cloud+Enthusiast;React+%7C+Node.js+%7C+PHP+%7C+PostgreSQL;Docker+%7C+Kubernetes+%7C+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=500\&lines=Full+Stack+Web+Developer;Building+Real+World+Web+Apps;React+%7C+Node.js+%7C+PHP+%7C+PostgreSQL;Clean+Code+%7C+Scalable+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,19 +10,20 @@
 
 ## 🚀 About Me
 
-I am a final year Computer Science student passionate about building and deploying full-stack web applications end-to-end.
+I am a final year Computer Science student focused on **Full Stack Web Development**.
 
-I enjoy working across the entire stack — from crafting React frontends and Node.js/PHP backends to deploying them on real servers with Docker, CI/CD pipelines, and cloud infrastructure.
+I build complete web applications — from responsive frontends to backend systems and database design.
 
-My focus is not just learning tools, but understanding how everything connects — from writing code to shipping it to production. I believe a good web developer should also understand deployment, automation, and infrastructure.
+My goal is to develop **real-world, scalable applications** with clean architecture and efficient performance.
 
-Currently building projects to sharpen my practical skills and move toward production-level systems.
+I also have basic knowledge of deployment and cloud, but my primary focus is building strong web development fundamentals.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5"/>
@@ -36,6 +37,7 @@ Currently building projects to sharpen my practical skills and move toward produ
 </div>
 
 ### ⚙️ Backend & Databases
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
@@ -50,26 +52,13 @@ Currently building projects to sharpen my practical skills and move toward produ
 
 </div>
 
-### 🔧 DevOps & Cloud
+### 🔧 Tools
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux"/>
-&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" title="Kubernetes"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="50" title="GitHub Actions"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50" title="Terraform"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" title="Jenkins"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" title="Nginx"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" title="GitHub"/>
 
 </div>
 
@@ -77,23 +66,27 @@ Currently building projects to sharpen my practical skills and move toward produ
 
 ## 📦 Projects
 
-### 🔹 Full Stack Applications
+### 🔹 Attendance Management System (AMS)
 
-| Project | Stack | Description |
-|---|---|---|
-| **[LinkSnap](YOUR_REPO_LINK)** | React · Node.js · PostgreSQL · Docker | URL shortener — full-stack app with REST API, containerized with Docker Compose |
-| **Notes App** | HTML · CSS · JavaScript | Client-side notes application with local state management |
-| **Task Manager** | HTML · CSS · JavaScript | Static task tracking interface |
+**Tech:** PHP · MySQL · JavaScript · HTML · CSS
 
-### 🔹 DevOps & Infrastructure
+* Role-based system (Admin & Teachers)
+* Student & class management
+* Daily attendance marking system
+* Attendance reports with percentage tracking
+* Secure authentication (sessions + password hashing)
 
-| Project | Stack | Description |
-|---|---|---|
-| **CI/CD Pipeline** | GitHub Actions · Node.js | Automated testing, building & integration pipeline on every push |
-| **Kubernetes Deployment** | Kubernetes · Docker | Containerized app deployed on a Kind cluster with scaling & service exposure |
-| **Linux Server Automation** | Bash · Cron · AWS EC2 | Log cleanup, disk monitoring & daily backup scripts with cron scheduling |
-| **Nginx Setup** | Nginx · Linux | Web server configuration with reverse proxy and static file serving |
-| **Git Team Workflow** | Git · GitHub | Team collaboration simulation using Git Flow with merge conflict resolution |
+---
+
+### 🔹 Home Care Service Provider
+
+**Tech:** PHP · MySQL · JavaScript · HTML · CSS
+
+* Multi-role system (Customer, Provider, Admin)
+* Service booking with status tracking
+* Rating & review system
+* Admin dashboard for system control
+* Fully responsive design
 
 ---
 
@@ -101,17 +94,17 @@ Currently building projects to sharpen my practical skills and move toward produ
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhalilAhmadPK&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilAhmadPK&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilAhmadPK&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-- Building full-stack web apps with React + Node.js/PHP
-- Deepening PostgreSQL and database design skills
-- Improving Kubernetes for real-world production use
-- Understanding system design and scalable infrastructure
+* Building full-stack web apps (React + Node.js)
+* Improving backend development & APIs
+* Strengthening database design (PostgreSQL & MySQL)
+* Creating production-ready projects
 
 ---
 
@@ -119,9 +112,9 @@ Currently building projects to sharpen my practical skills and move toward produ
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Khalil_Ahmad001@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Khalil_Ahmad001@hotmail.com)
 
 </div>
 
@@ -129,6 +122,6 @@ Currently building projects to sharpen my practical skills and move toward produ
 
 <div align="center">
 
-💡 *Building full-stack apps. Shipping them with DevOps.*
+💡 *Focused on building real-world web applications.*
 
 </div>
